@@ -1,0 +1,8 @@
+![akurasi](https://github.com/user-attachments/assets/29dcf7d3-a663-4a42-a735-b3aefe75c32a)
+![confusion](https://github.com/user-attachments/assets/c002aebc-b724-4772-8bf8-ae95e9aa545e)
+![evaluasi](https://github.com/user-attachments/assets/02348754-5bbf-4997-8d38-a5135585a75e)
+![f1](https://github.com/user-attachments/assets/2d35e09e-edf8-44a4-a5a0-223eb8acbc67)
+![info](https://github.com/user-attachments/assets/e3f78c88-367f-4f82-83b3-4e3043d9bc25)
+![statistika deskriptif](https://github.com/user-attachments/assets/44327485-54ad-4cf9-ace1-763aa8edf488)
+![recall1](https://github.com/user-attachments/assets/629c3829-475f-4f60-84e8-15f4bdaba1cd)
+![precision1](https://github.com/user-attachments/assets/9d829d75-a9e5-4b3c-a1e1-c17489827790)
