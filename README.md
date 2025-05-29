@@ -67,7 +67,7 @@ Dataset ini terdiri dari 15000 pasien wanita yang berusia anatara 20 hingga 80 t
 - Age adalah usia responden (dalam tahun).
 - Diabetic adalah label target (0 = tidak diabetes, 1 = diabetes)
 
-  ![Gambar](https://drive.google.com/uc?export=view&id=1WvamYed1-lh0UTjQj0bQbJ97457faMJW)
+  ![info](https://github.com/user-attachments/assets/e3f78c88-367f-4f82-83b3-4e3043d9bc25)
 
 
 ### Exploratory Data Analysis
@@ -76,7 +76,7 @@ Dataset ini terdiri dari 15000 pasien wanita yang berusia anatara 20 hingga 80 t
 - Semua fitur bertipe data numerik
 - Ststistika deskriptif dari fitur-fitur
 
-  ![Gambar](https://drive.google.com/uc?export=view&id=1o1CPkX3zRnGyZkTKgg9oHwyWxtHe8Z_5)
+  ![statistika deskriptif](https://github.com/user-attachments/assets/44327485-54ad-4cf9-ace1-763aa8edf488)
 
  1. Pregnancies
    - Rata-rata pasien telah mengalami kehamilan sebanyak 3 kali.
@@ -244,7 +244,7 @@ Mengukur proporsi prediksi yang benar dari seluruh prediksi.
 
 Rumus:
 
-![Accuracy Chart](https://drive.google.com/uc?export=view&id=1pWrY1sM_P1ytm-SgiXuw7NukZKg17mJi)
+![akurasi](https://github.com/user-attachments/assets/29dcf7d3-a663-4a42-a735-b3aefe75c32a)
 
 
 Cocok digunakan saat distribusi kelas seimbang. Namun, pada data yang imbalanced, metrik ini bisa menyesatkan.
@@ -255,7 +255,7 @@ Mengukur proporsi prediksi positif yang benar-benar positif.
 
 Rumus:  
 
-![precision](https://drive.google.com/uc?export=view&id=1jBMuaAsuENT9POkGZocKV14Scm_cgbUP)
+![precision1](https://github.com/user-attachments/assets/9d829d75-a9e5-4b3c-a1e1-c17489827790)
 
 Penting ketika konsekuensi dari false positive tinggi, misalnya diagnosis salah positif.
 
@@ -265,7 +265,7 @@ Mengukur proporsi kasus positif yang berhasil dideteksi model.
 
 Rumus:
 
-![recall](https://drive.google.com/uc?export=view&id=1qn7SR9PDxp6E8I22cBsToklP9J_qJnWQ)
+![recall1](https://github.com/user-attachments/assets/629c3829-475f-4f60-84e8-15f4bdaba1cd)
 
 Sangat penting dalam konteks medis, karena tidak boleh melewatkan pasien yang benar-benar sakit.
 
@@ -275,7 +275,7 @@ Merupakan harmonisasi antara precision dan recall.
 
 Rumus:
 
-![f1 score](https://drive.google.com/uc?export=view&id=1gMaukZUTa5n6vuLgJX1Kie_trl1T_OjL)
+![f1](https://github.com/user-attachments/assets/2d35e09e-edf8-44a4-a5a0-223eb8acbc67)
 
 Berguna saat perlu keseimbangan antara precision dan recall.
 
@@ -283,7 +283,7 @@ Berguna saat perlu keseimbangan antara precision dan recall.
 
 Membantu memberikan gambaran detail tentang prediksi model, berapa banyak true positive, false positive, true negative, dan false negative yang dihasilkan.
 
-![Confusion Matrix](https://drive.google.com/uc?export=view&id=1cWMQXTlNirgYg-wRWO9BW0bKW9_Usu2w)
+![confusion](https://github.com/user-attachments/assets/c002aebc-b724-4772-8bf8-ae95e9aa545e)
 
 
 - True Positive (TP): Kasus positif yang berhasil dideteksi sebagai positif.
@@ -335,7 +335,7 @@ Membantu memberikan gambaran detail tentang prediksi model, berapa banyak true p
   - 76 pasien tidak diabetes salah diprediski sebagai diabetes (false positive).
   - 56 pasien diabetes salah diprediksi sebagai tidak diabetes (false negative).
 
-  ![evaluasi](https://drive.google.com/uc?export=view&id=1yK7y_UB08kOn-XdGBd3GrC-SfICW7PEg)  
+  ![evaluasi](https://github.com/user-attachments/assets/02348754-5bbf-4997-8d38-a5135585a75e) 
 
 Berdasarkan hasil di atas model yang memiliki performa paling bagus adalah XGBoost.
 
